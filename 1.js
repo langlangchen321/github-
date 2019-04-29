@@ -7,28 +7,9 @@
 	<body>
 	</body>
 	<script type="text/javascript">
-		{/* var name='window';
-		
-		var obj={
-			name:'obj',
-			getName:function () {
-				return function (){
-					return this.name
-				}
-			}
-		}		
-		console.log(obj.getName()());//window */}
-		var name='chenlang';
-		
-		var obj1={
-			name:'haha',
-			getName:function () {
-				return function (){
-					return this.name
-				}
-			}
-		}		
-		console.log(obj1.getName()());//window
+
+	正在做fulture的功能，突然告诉有一个bug,bug已经解决，继续开发。。。。开发完成
+	
 		
 	</script>
 </html>
